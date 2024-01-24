@@ -21,9 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arpit-aggarwal10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-aggarwal10" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22239700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22239700" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arpitaggarwal1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpitaggarwal1012" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arpitaggarwal1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arpitaggarwal1012" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
