@@ -1,4 +1,4 @@
-![logo](https://github.com/ArpitAggarwal10/ArpitAggarwal10/blob/main/github-header-image%202.png)
+![logo](https://github.com/ArpitAggarwal10/ArpitAggarwal10/blob/main/github-header-image-2.png)
 <h1 align="center">Hi 👋, I'm Arpit Aggarwal</h1>
 <h3 align="center">A Passionate Software Engineer And Data Analyst.</h3>
 
